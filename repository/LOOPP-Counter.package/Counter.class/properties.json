@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ZelphirKaltstahl 9/25/2017 10:02",
+	"super" : "Object",
+	"category" : "LOOPP-Counter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"count"
+	],
+	"name" : "Counter",
+	"type" : "normal"
+}
